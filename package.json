@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "This is my node js npm tutorial.",
+  "main": "challenge1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tier3guy/NodeJs-ft-technical-thapa.git"
+  },
+  "author": "avinash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tier3guy/NodeJs-ft-technical-thapa/issues"
+  },
+  "homepage": "https://github.com/tier3guy/NodeJs-ft-technical-thapa#readme"
+}
